@@ -1,4 +1,7 @@
-# testando_repositorios_github
-Este repositorio é um teste do curso de git e github, apenas explorando e entendendo o github 
+# E-commerce Empresa X
 
-# Teste
+Vamos criar um e-commerce, para a empre X e blabla
+
+## Funcionalidades:
+
+Checkout, tela de produto, catalogo, home com banner
