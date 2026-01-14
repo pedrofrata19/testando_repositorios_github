@@ -32,3 +32,7 @@ __Melhoria 1__, _Melhoria 2_
 ### Imagem local
 
 ![Logo do git](img/git.png)
+
+### Imagem externa
+
+![Logo do Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png)
