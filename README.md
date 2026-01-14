@@ -44,3 +44,5 @@ __Melhoria 1__, _Melhoria 2_
 [https://www.google.com](https://www.google.com)
 
 Contribuidor principal: https://www.github.com/pedrofrata19
+
+[![Logo do Git](img/git.png)](https://www.github.com/pedrofrata19)
