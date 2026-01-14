@@ -36,3 +36,7 @@ __Melhoria 1__, _Melhoria 2_
 ### Imagem externa
 
 ![Logo do Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png)
+
+### Links interessantes:
+
+[Google](https://www.google.com)
