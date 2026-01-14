@@ -46,3 +46,11 @@ __Melhoria 1__, _Melhoria 2_
 Contribuidor principal: https://www.github.com/pedrofrata19
 
 [![Logo do Git](img/git.png)](https://www.github.com/pedrofrata19)
+
+### Código da função soma:
+
+```javascript
+function soma(a,b) {
+    return a + b;
+}
+```
